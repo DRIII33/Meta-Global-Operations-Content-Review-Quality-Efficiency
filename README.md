@@ -2,6 +2,9 @@
 
 # Project Title: Optimizing Content Review Quality and Efficiency
 
+# Project Disclaimer
+This project is a hypothetical case study created for portfolio and demonstration purposes. All data contained within the project is synthetic and does not represent actual Meta internal, proprietary information or data. The analysis and findings are based on a simulated dataset but address real-world business problems faced by data analysts in a similar role.
+
 # Business Scenario
 The mission of Global Operations (GO) at Meta is to minimize harm and ensure positive experiences for users and businesses. The Global Operations Quality team measures the effectiveness of content moderation processes. This project focuses on a core operational challenge: optimizing the manual content review workflow to improve both quality (accuracy) and efficiency (speed).
 
