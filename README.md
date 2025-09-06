@@ -104,9 +104,3 @@ Enhance AI Triage: Investigate the slight increase in error rates with AI triage
 Implement a Self-Service Dashboard: Roll out the Looker Studio dashboard to operations managers to enable autonomous, data-driven decision-making.
 
 
-
-Enhance AI Triage: Investigate the slight increase in error rates with AI triage to refine the model's performance on edge cases.
-
-Implement a Self-Service Dashboard: Roll out the Looker Studio dashboard to operations managers to enable autonomous, data-driven decision-making.
-
-
